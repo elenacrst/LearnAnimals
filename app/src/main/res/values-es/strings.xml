@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learn Animals</string>
+    <string name="title_change_volume">" Cambiar el volumen"</string>
+    <string name="text_cancel">CANCELAR</string>
+    <string name="text_done">HECHO</string>
+    <string name="title_congrats">" Felicitaciones"</string>
+    <string name="title_good_job">Buen trabajo</string>
+    <string name="text_game_finished">" Eso es todo, ¡has encontrado todos los pares de animales!"</string>
+    <string name="title_exit">SALIDA</string>
+    <string name="title_retry">REVER</string>
+    <string name="sheep">oveja</string>
+    <string name="horse">caballo</string>
+    <string name="pig">cerdo</string>
+    <string name="snake">serpiente</string>
+    <string name="tiger">Tigre</string>
+    <string name="wolf">" lobo"</string>
+    <string name="monkey">mono</string>
+    <string name="lion">león</string>
+    <string name="leopard">" leopardo"</string>
+    <string name="elephant">" elefante"</string>
+    <string name="dog">perro</string>
+    <string name="cat">gato</string>
+    <string name="seal">" sello"</string>
+    <string name="chicken">pollo</string>
+    <string name="duck">pato</string>
+    <string name="title_help_menu">Ayuda</string>
+    <string name="text_help">" Este es un juego de partidos. Tienes que encontrar los pares de imágenes de animales que coinciden. ¡Buena suerte!"</string>
+    <string name="text_okgotit">OK, LO TENGO</string>
+    <string name="title_animal_count">Animal %d / %d</string>
+    <string name="bear">" oso"</string>
+    <string name="bee">abeja</string>
+    <string name="eagle">águila</string>
+    <string name="title_game_over">" Juego terminado"</string>
+    <string name="text_game_over">" Alcanzaste el final del juego de acertijos. ¿Quieres jugar de nuevo?"</string>
+    <string name="cow">vaca</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learn Animals</string>
+    <string name="title_change_volume">" Schimbați volumul"</string>
+    <string name="text_cancel">" ANULARE"</string>
+    <string name="text_done">TERMINAT</string>
+    <string name="title_congrats">Felicitări</string>
+    <string name="title_good_job">Bună treabă</string>
+    <string name="text_game_finished">Asta e, ați găsit toate perechile de animale!</string>
+    <string name="title_exit">" IEȘIRE"</string>
+    <string name="title_retry">" REÎNCERCAȚI"</string>
+    <string name="cat">pisică</string>
+    <string name="dog">câine</string>
+    <string name="elephant">elefant</string>
+    <string name="leopard">leopard</string>
+    <string name="lion">leu</string>
+    <string name="monkey">maimuţă</string>
+    <string name="wolf">" lup"</string>
+    <string name="tiger">tigru</string>
+    <string name="snake">şarpe</string>
+    <string name="pig">porc</string>
+    <string name="horse">cal</string>
+    <string name="sheep">oaie</string>
+    <string name="seal">focă</string>
+    <string name="chicken">găină</string>
+    <string name="duck">rață</string>
+    <string name="cow">vacă</string>
+    <string name="title_help_menu">" Ajutor"</string>
+    <string name="text_help">" Acesta este un joc de perechi. Trebuie să găsiți perechi de imagini de animale care se potrivesc. Mult noroc!"</string>
+    <string name="text_okgotit">OK, AM INTELES</string>
+    <string name="title_animal_count">Animal %d / %d</string>
+    <string name="bear">urs</string>
+    <string name="bee">albină</string>
+    <string name="eagle">vultur</string>
+    <string name="title_game_over">Joc încheiat</string>
+    <string name="text_game_over">Ai ajuns la sfârșitul jocului de puzzle. Vrei să joci din nou?</string>
+</resources>

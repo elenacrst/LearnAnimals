@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorPrimary"/>
+            <size android:height="500dp" android:width="300dp"/>
+        </shape>
+    </item>
+
+    <item>
+        <bitmap android:src="@drawable/animallogo_resized"
+            android:gravity="center" />
+
+    </item>
+
+</layer-list>

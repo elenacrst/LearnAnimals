@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learn Animals</string>
+    <string name="title_change_volume">Cambia volume</string>
+    <string name="text_cancel">ANNULLA</string>
+    <string name="text_done">" FATTO"</string>
+    <string name="title_congrats">Complimenti</string>
+    <string name="title_good_job">Buon lavoro</string>
+    <string name="text_game_finished">" È così, hai trovato tutte le coppie di animali!"</string>
+    <string name="title_retry">RIPROVA</string>
+    <string name="title_exit">USCITA</string>
+    <string name="sheep">pecora</string>
+    <string name="horse">cavallo</string>
+    <string name="pig">maiale</string>
+    <string name="snake">serpente</string>
+    <string name="tiger">tigre</string>
+    <string name="wolf">" lupo"</string>
+    <string name="monkey">" scimmia"</string>
+    <string name="lion">" Leone"</string>
+    <string name="leopard">" leopardo"</string>
+    <string name="elephant">elefante</string>
+    <string name="dog">cane</string>
+    <string name="cat">gatto</string>
+    <string name="seal">foca</string>
+    <string name="chicken">pollo</string>
+    <string name="duck">anatra</string>
+    <string name="cow">mucca</string>
+    <string name="title_help_menu">" Aiuto"</string>
+    <string name="text_help">" Questo è un gioco di partite. Devi trovare le coppie di immagini di animali che corrispondono. In bocca al lupo!"</string>
+    <string name="text_okgotit">OK, CAPITO</string>
+    <string name="title_animal_count">Animale %d / %d</string>
+    <string name="bear">orso</string>
+    <string name="bee">" ape"</string>
+    <string name="eagle">" aquila"</string>
+    <string name="title_game_over">" Gioco finito"</string>
+    <string name="text_game_over">" Hai raggiunto la fine del puzzle game. Vuoi giocare di nuovo?"</string>
+</resources>
