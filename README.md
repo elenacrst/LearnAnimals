@@ -2,6 +2,7 @@
 
 <b>Main screen 
   
+  A grid of animal pictures is displayed. The app has static resources and strings. A custom adapter is used to populate the grid view. The footer contains options for preferred volume, language and navigating to games. SharedPreferences are used for saving user's choices for volume and language. Strings' localization is handled with different strings.xml files. When an animal image from the grid is clicked, it gets zoomed in and the sound of the corresponding animal gets played and may be replayed using MediaPlayer. 
   
 <img src="https://i.imgur.com/Euoqhlg.jpg" height="240" width="160">
 <img src="https://i.imgur.com/xb0S2yK.jpg" height="240" width="160">
