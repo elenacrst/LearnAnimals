@@ -3,11 +3,11 @@
 <b>Main screen 
   
   
-<img src="https://i.imgur.com/Euoqhlg.jpg" height="200" width="120">
-<img src="https://i.imgur.com/xb0S2yK.jpg" height="200" width="120">
-<img src="https://i.imgur.com/whAORCV.jpg" height="200" width="120">
-<img src="https://i.imgur.com/IDu4jE8.jpg" height="200" width="120">
-<img src="https://i.imgur.com/K4NlnwP.jpg" height="200" width="120">
+<img src="https://i.imgur.com/Euoqhlg.jpg" height="300" width="180">
+<img src="https://i.imgur.com/xb0S2yK.jpg" height="300" width="180">
+<img src="https://i.imgur.com/whAORCV.jpg" height="300" width="180">
+<img src="https://i.imgur.com/IDu4jE8.jpg" height="300" width="180">
+<img src="https://i.imgur.com/K4NlnwP.jpg" height="300" width="180">
 
 
 Matches Game Screen
